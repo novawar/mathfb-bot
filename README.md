@@ -35,7 +35,7 @@ sqrt(-4)             // 2i
 ```
 result : 
 
-![image of docs](/img_doc/bot_pic.png)
+![image of docs](/img_doc/bot_pic.PNG)
 
 
 ## Todo
