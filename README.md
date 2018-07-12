@@ -6,10 +6,8 @@ clone this repo
 
 cd into the directory
 
-### run :
-```
-npm install
-```
+run `npm install`
+
 
 ## Configure
 config `config.js` file 
@@ -37,7 +35,7 @@ sqrt(-4)             // 2i
 ```
 result : 
 
-![image of docs](img_doc/bot_pic.png)
+![image of docs](/img_doc/bot_pic.png)
 
 
 ## Todo
